@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive - NSBM\C# program\test 26\test 26\bin\Debug\test 26.exe.config
+C:\Users\ASUS\OneDrive - NSBM\C# program\test 26\test 26\bin\Debug\test 26.exe
+C:\Users\ASUS\OneDrive - NSBM\C# program\test 26\test 26\bin\Debug\test 26.pdb
+C:\Users\ASUS\OneDrive - NSBM\C# program\test 26\test 26\obj\Debug\test 26.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - NSBM\C# program\test 26\test 26\obj\Debug\test_26.Form1.resources
+C:\Users\ASUS\OneDrive - NSBM\C# program\test 26\test 26\obj\Debug\test_26.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - NSBM\C# program\test 26\test 26\obj\Debug\test 26.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - NSBM\C# program\test 26\test 26\obj\Debug\test 26.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - NSBM\C# program\test 26\test 26\obj\Debug\test 26.exe
+C:\Users\ASUS\OneDrive - NSBM\C# program\test 26\test 26\obj\Debug\test 26.pdb
